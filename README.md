@@ -1,6 +1,8 @@
 # LinkedListWithReadWriteLock
 
 对链表的读写锁, 伪代码如下:
+
+```
 class linked_list {
 
     node* head;
@@ -40,3 +42,4 @@ class linked_list {
     }
 
 }
+```
